@@ -162,5 +162,5 @@ Of course, it is no problem to use HTTP to talk to some RESTful services while y
 
 The rest of this article series show you how to do this, from creating your own virtual connection on top of UDP, to creating your own reliability, flow control and congestion avoidance.
 
-__NEXT ARTICLE:__ [Sending and Receiving Packets](/post/sending_and_receiving_packets/)
+__NEXT ARTICLE:__ [Sending and Receiving Packets](/content/post/sending_and_receiving_packets.md/)
 
